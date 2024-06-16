@@ -1,7 +1,7 @@
 # $\mathbf{Broken \ God}$
 $\LARGE 这是一个由C++编写的游戏 \atop \small It \ is \ the \ Game \ made \ whith \ C++$
 
-$\textcolor{#808080}\frak{God \ Broke \ Himself \ to \ Make \ Us \ Whole}$
+$\frak{\textcolor{#808080}{God \ Broke \ Himself \ to \ Make \ Us \ Whole} }$
 ```
 ╔══╗─────╔╗────────╔═══╗────╔╗
 ║╔╗║─────║║────────║╔═╗║────║║
